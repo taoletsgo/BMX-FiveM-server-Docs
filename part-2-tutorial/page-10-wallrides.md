@@ -83,8 +83,15 @@ layout:
 
 </div>
 
-* 成功率比较低
-* 受帧数和墙壁材质的影响大
+
+
+{% hint style="warning" %}
+成功率比较低
+{% endhint %}
+
+{% hint style="warning" %}
+受帧数和墙壁材质的影响大
+{% endhint %}
 
 ### **拍地接前压壁走** <a href="#pai-di-jie-qian-ya-bi-zou" id="pai-di-jie-qian-ya-bi-zou"></a>
 
@@ -98,7 +105,7 @@ layout:
 
 </div>
 
-> 【拓展思路】其他方法接前压壁走：
+> **【拓展思路】**其他方法接前压壁走：
 >
 > 🚩屁股滑接前压壁走
 >
@@ -147,7 +154,7 @@ layout:
 手柄：左摇杆
 ```
 
-> 【拓展思路】平地上有无方法做到后轮贴墙壁走呢？🧐
+> **【拓展思路】**平地上有无方法做到后轮贴墙壁走呢？🧐
 
 ## <mark style="color:blue;">**拱拱壁走**</mark>🕹️ <a href="#gong-gong-bi-zou" id="gong-gong-bi-zou"></a>
 
