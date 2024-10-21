@@ -73,6 +73,6 @@ layout:
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image/tutorial/7.backflops/4.backflop后压后轮拍接倒头滑.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image/tutorial/8.jumps-2/3.后轮速转.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
