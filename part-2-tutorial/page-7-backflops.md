@@ -59,7 +59,7 @@ layout:
 手柄：左摇杆+RB/R1
 ```
 
-> \*\*【拓展思路】\*\*后轮拍地和[地滑类](page-5-hipster-cut-slides.md)技巧的结合：
+> 【拓展思路】后轮拍地和[地滑类](page-5-hipster-cut-slides.md)技巧的结合：
 >
 > 头滑→正向后轮拍→头滑（循环）
 >

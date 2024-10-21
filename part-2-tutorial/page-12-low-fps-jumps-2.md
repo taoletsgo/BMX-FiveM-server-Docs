@@ -45,7 +45,7 @@ layout:
 手柄：左摇杆+RB/R1+LT/L2
 ```
 
-> \*\*【拓展思路】\*\*壁走也可以接顶飞，顶飞不仅仅是地面上的东西\~
+> 【拓展思路】壁走也可以接顶飞，顶飞不仅仅是地面上的东西\~
 
 ## <mark style="color:blue;">**侧顶飞**</mark>🕹️ <a href="#ce-ding-fei" id="ce-ding-fei"></a>
 
