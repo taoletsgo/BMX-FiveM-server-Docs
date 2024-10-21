@@ -28,7 +28,9 @@ layout:
 
 {% hint style="info" %}
 不同杆子要求不同的**前压角度**和**左右微调**
+{% endhint %}
 
+{% hint style="info" %}
 上杆比较考验对距离的把控，建议去跑马场一边转圈一边练习
 {% endhint %}
 
@@ -91,7 +93,9 @@ layout:
 
 {% hint style="info" %}
 不同杆子要求不同的**前压角度**和**左右微调**
+{% endhint %}
 
+{% hint style="info" %}
 上杆比较考验对距离的把控，建议去跑马场一边转圈一边练习
 {% endhint %}
 
@@ -154,7 +158,9 @@ layout:
 
 {% hint style="info" %}
 可以调整前后方向来平衡车身
+{% endhint %}
 
+{% hint style="info" %}
 想达到卡完美状态，需要尽量模仿标准动作
 {% endhint %}
 
@@ -177,7 +183,9 @@ layout:
 
 {% hint style="info" %}
 跳的时候可以加上前推
+{% endhint %}
 
+{% hint style="success" %}
 跳的时候也可以再加上刹车，可以出来一种拍地的效果，姑且称作“夹杆拍”
 {% endhint %}
 

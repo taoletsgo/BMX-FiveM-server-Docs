@@ -31,7 +31,7 @@ layout:
 {% endhint %}
 
 {% hint style="warning" %}
-有关前压跳和跳前压的不同之处：&#x20;
+有关前压跳和跳前压的不同之处：
 
 前压跳 先**前压**再**跳** ------------ 跳的远
 
@@ -59,7 +59,9 @@ layout:
 
 {% hint style="info" %}
 跳一定要蓄力，蓄力越久左右平移越远
+{% endhint %}
 
+{% hint style="success" %}
 此技巧考验对车身的控制，可以适当前推/后拉来平衡自行车的稳定
 {% endhint %}
 
@@ -82,7 +84,9 @@ layout:
 
 {% hint style="info" %}
 上图演示中，后跳了两下，第一下在反向打前推的过程中多前推，使得前轮落地，給了第二后跳足够的动力
+{% endhint %}
 
+{% hint style="info" %}
 上图演示中，因为前轮落地没有太多时间摆出拍地姿势，所以不适合后拍地，后拍地最好是后跳完后轮或者双轮落地停顿一会再进行第二次后跳，在后面的后拍地说明中再提
 {% endhint %}
 
@@ -105,9 +109,13 @@ layout:
 
 {% hint style="info" %}
 对于30帧跳跃有延迟，所以需要提前跳
+{% endhint %}
 
+{% hint style="info" %}
 跳一定要蓄力，第二次跳可蓄力时间稍微短一些
+{% endhint %}
 
+{% hint style="info" %}
 多多练习即可熟练，在实战中并没有极限的双大跳，大多都是一个过场，用来接后续技巧
 {% endhint %}
 
@@ -130,7 +138,9 @@ layout:
 
 {% hint style="info" %}
 对于30帧，落地需要像日墙一样，按下刹车日地板加速
+{% endhint %}
 
+{% hint style="info" %}
 对于高帧，也不要疯狂跳，不然车子不平衡，会左右乱歪
 {% endhint %}
 
@@ -182,7 +192,9 @@ layout:
 
 {% hint style="info" %}
 帧数不要高于90，不然砸不起来，建议帧数30\~75
+{% endhint %}
 
+{% hint style="info" %}
 此技巧考验对车身的控制，通常用来做反动壁走的前置操作
 {% endhint %}
 
@@ -251,9 +263,13 @@ layout:
 
 {% hint style="info" %}
 吸板时把帧数控制在低帧，有时候会出奇迹
+{% endhint %}
 
+{% hint style="info" %}
 左右晃动车身，出奇迹的概率更大
+{% endhint %}
 
+{% hint style="info" %}
 前推力度不要过大，不然末尾不会弹出去
 {% endhint %}
 
@@ -292,9 +308,7 @@ layout:
 </div>
 
 {% hint style="info" %}
-60帧时比较容易做出此操作
-
-当成短一点的吸板跳就好了
+60帧时比较容易做出此操作，当成短一点的吸板跳就好了
 {% endhint %}
 
 ```plaintext
