@@ -1,7 +1,5 @@
 # 介绍
 
-
-
 <div align="left">
 
 <figure><img src=".gitbook/assets/image/home.jpg" alt=""><figcaption></figcaption></figure>
@@ -22,4 +20,6 @@ GTA5BMX作为一个玩家自主发掘的全新的动作游戏玩法，虽然依�
 如何迁移至bmx竞速/特技的FiveM多人私服，请参阅本wiki的左侧导航栏\~
 {% endhint %}
 
-🎮[Discord Group](https://discord.com/invite/ryAE73x)
+群组链接: 🎮[Discord Group](https://discord.com/invite/ryAE73x)&#x20;
+
+~~_QQ注销卸载了，没有QQ群_~~

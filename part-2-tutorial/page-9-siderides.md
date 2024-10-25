@@ -43,7 +43,9 @@ layout:
 
 </div>
 
-* 2015年最出圈的斜面壁走，出自大名鼎鼎的SBMX挑战状，图的作者是\_Retro maniA\_
+{% hint style="info" %}
+2015年最出圈的斜面壁走，出自大名鼎鼎的SBMX挑战状，图的作者是Retro maniA
+{% endhint %}
 
 ### **单板接斜面壁走** <a href="#dan-ban-jie-xie-mian-bi-zou" id="dan-ban-jie-xie-mian-bi-zou"></a>
 
@@ -189,9 +191,17 @@ layout:
 
 </div>
 
-* 一般情况下，起跳之后要先后拉再前推
-* 少数情况下方向不用动，只需要按跳
-* 更少数情况下，两个壁走非常近或者距离刚刚好，可以壁走骑过去直接进行下一段壁走
+{% hint style="info" %}
+一般情况下，起跳之后要先后拉再前推
+{% endhint %}
+
+{% hint style="info" %}
+少数情况下方向不用动，只需要按跳
+{% endhint %}
+
+{% hint style="info" %}
+更少数情况下，两个壁走非常近或者距离刚刚好，可以壁走骑过去直接进行下一段壁走
+{% endhint %}
 
 ```plaintext
 键盘：方向按键+空格
@@ -210,8 +220,13 @@ layout:
 
 </div>
 
-* 低帧（小于40帧）比较容易做出来
-* 需要按住加速键后拉
+{% hint style="info" %}
+低帧（小于40帧）比较容易做出来
+{% endhint %}
+
+{% hint style="warning" %}
+需要按住加速键后拉
+{% endhint %}
 
 ```plaintext
 键盘：方向按键+空格+W（按住）
@@ -228,8 +243,13 @@ layout:
 
 </div>
 
-* 摆拍地姿势就行了，管它斜不斜面，拍！
-* 但是斜面拍地高帧容易出奇迹，~~低帧也不是不可以，入门难一些~~
+{% hint style="info" %}
+摆拍地姿势就行了，管它斜不斜面，拍！
+{% endhint %}
+
+{% hint style="info" %}
+高帧容易出奇迹，~~低帧也不是不可以，入门难一些~~
+{% endhint %}
 
 ```plaintext
 键盘：方向按键+空格+Q

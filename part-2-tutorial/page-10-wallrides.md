@@ -36,19 +36,45 @@ layout:
 
 ***
 
+**🔎详细操作方法：**
+
+{% stepper %}
+{% step %}
+### 反动跳
+
+结合普通跳跃里[反动跳](page-1-jumps.md#fan-dong-tiao)操作，即空中先左后右（或先右后左）
+{% endstep %}
+
+{% step %}
+### 砸车头
+
+接着落地执行砸车头操作，保持前推不要松
+{% endstep %}
+
+{% step %}
+### 触墙前压
+
+让前轮触及所要壁走的面，然后适当前压+蓄力跳（此处蓄力跳看成一个拱）
+{% endstep %}
+{% endstepper %}
+
 <div align="left">
 
 <figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.2反动壁走（前压拱）.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-🔎详细操作方法：
+{% hint style="warning" %}
+砸起车头前，前推一定不能松
+{% endhint %}
 
-结合普通跳跃里[反动跳](page-1-jumps.md#fan-dong-tiao)操作，即空中先左后右（或先右后左），落地执行砸车头操作，让前轮触及所要壁走的面，然后适当前压+蓄力跳（此处蓄力跳看成一个拱）
+{% hint style="info" %}
+砸起车头后，后拉到gif演示的角度，但是不要后拉太多减速了
+{% endhint %}
 
-* 砸起车头前，前推一定不能松
-* 砸起车头后，后拉到gif演示的角度，但是不要后拉太多减速了
-* 速度快+动作流畅，有助于提高成功率
+{% hint style="info" %}
+速度快+动作流畅，有助于提高成功率
+{% endhint %}
 
 ```plaintext
 键盘：方向按键+空格
@@ -69,7 +95,9 @@ layout:
 
 </div>
 
-* 在速度足够的情况下，才能直接起跳摆出前压壁走
+{% hint style="info" %}
+在速度足够的情况下，才能直接起跳摆出前压壁走
+{% endhint %}
 
 ### **砸车头接前压壁走** <a href="#za-che-tou-jie-qian-ya-bi-zou" id="za-che-tou-jie-qian-ya-bi-zou"></a>
 
@@ -82,8 +110,6 @@ layout:
 <figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.4砸车头接前压壁走.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-
 
 {% hint style="warning" %}
 成功率比较低
@@ -129,8 +155,15 @@ layout:
 
 </div>
 
-* 不需要按刹车
-* 先前推再跳出去，不要跳出去再前推，否则速度不够
+
+
+{% hint style="info" %}
+不需要按刹车
+{% endhint %}
+
+{% hint style="danger" %}
+先前推再跳出去，不要跳出去再前推，否则速度不够
+{% endhint %}
 
 ```plaintext
 键盘：方向按键+空格

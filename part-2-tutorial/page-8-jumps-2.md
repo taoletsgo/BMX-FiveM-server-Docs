@@ -30,7 +30,9 @@ layout:
 
 </div>
 
-* 低帧双轮落地砸，高帧前轮落地砸
+{% hint style="info" %}
+低帧双轮落地砸，高帧前轮落地砸
+{% endhint %}
 
 ```plaintext
 键盘：方向按键+空格+Q
