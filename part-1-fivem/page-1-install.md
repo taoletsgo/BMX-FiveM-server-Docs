@@ -18,11 +18,7 @@ layout:
 
 ***
 
-<mark style="color:green;">（必须）</mark>加入[discord群](https://discord.com/invite/ryAE73x)，且获取到白名单后，将discord账号绑定至FiveM，[参考视频](https://www.youtube.com/watch?v=SWD2q0JKRCc)（跳转Youtube）
-
-{% hint style="warning" %}
-由于有太多路人玩家，所以不会关闭白名单了，搞不定discord网络的或者不想加群的，自己开一个服务器也能玩\~
-{% endhint %}
+<mark style="color:orange;">（可选）</mark>加入[discord群](https://discord.com/invite/ryAE73x)，然后也许你想将discord账号绑定至FiveM，[参考视频](https://www.youtube.com/watch?v=SWD2q0JKRCc)（跳转Youtube）
 
 ## <mark style="color:blue;">**2.Fivem下载**</mark> <a href="#h2fivem-xia-zai" id="h2fivem-xia-zai"></a>
 
@@ -64,25 +60,17 @@ layout:
 
 ***
 
-| **键盘** | **手柄** | **说明**                          | **比赛时是否可用** |
-| ------ | ------ | ------------------------------- | ----------- |
-| T      | /      | 打开聊天                            | /           |
-| Z      | 十字键🔽  | 在比赛时，切换计分板查看其他玩家载具/检查点/圈数       | /           |
-| M      | 返回键长按  | 生成BMX/刷载具/刷mod人物/传送/改涂装/改天气/改时间 | ❌           |
-| =      | 右摇杆点按  | 开启或关闭飞行模式                       | ❌           |
-| F6     | /      | 创建比赛/查看当前大厅里可中途加入的比赛            | /           |
-| F7     | /      | 接受比赛邀请                          | /           |
-| \[     | 十字键🔽  | 传送到记录点                          | ❌           |
-| ]      | 十字键🔼  | 记录特技地点                          | ❌           |
-| B      | /      | 获取玩家列表                          | /           |
-| F1     | /      | 录制                              | /           |
-| F2     | /      | 动作回放                            | /           |
-| F3     | /      | 取消录制                            | /           |
-| H      | /      | 开启或关闭游戏内的帮助菜单                   | /           |
-| /hud   | /      | 更改HUD（原生或自定义UI）                 | /           |
-| /skin  | /      | 更改外观                            | /           |
-| /tpn   | /      | 传送下个检查点                         | /           |
-| /tpp   | /      | 传送上个检查点                         | /           |
+| **键盘** | **手柄** | **说明**                          |
+| ------ | ------ | ------------------------------- |
+| T      | /      | 打开聊天                            |
+| Z      | 十字键🔽  | 切换计分板查看其他玩家载具/检查点/圈数            |
+| M      | 返回键长按  | 生成BMX/刷载具/刷mod人物/传送/改涂装/改天气/改时间 |
+| =      | 右摇杆点按  | 开启或关闭飞行模式                       |
+| F6     | /      | 创建比赛/查看当前大厅里可中途加入的比赛            |
+| F7     | /      | 接受比赛邀请                          |
+| \[     | 十字键🔽  | 传送到记录点                          |
+| ]      | 十字键🔼  | 记录特技地点                          |
+| H      | /      | 开启或关闭游戏内的帮助菜单                   |
 
 ## ⚠️<mark style="color:blue;">**特别注意**</mark> <a href="#te-bie-zhu-yi" id="te-bie-zhu-yi"></a>
 
@@ -92,11 +80,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<img src="../.gitbook/assets/image/fivem/锁帧.png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image/fivem/锁帧.png" alt=""></div>
 
 微星小飞机下载地址
 
