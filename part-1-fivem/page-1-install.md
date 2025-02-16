@@ -14,7 +14,7 @@ layout:
 
 # 安装本体
 
-## 结束邀请<mark style="color:blue;">**1.打开Discord**</mark> <a href="#h1-da-kai-discord" id="h1-da-kai-discord"></a>
+## <mark style="color:blue;">**1.打开Discord**</mark> <a href="#h1-da-kai-discord" id="h1-da-kai-discord"></a>
 
 ***
 
