@@ -52,7 +52,7 @@ layout:
 
 开始游戏里搜索`bmx`，或者任意浏览器打开
 
-[https://servers.fivem.net/servers/detail/567dy7](https://servers.fivem.net/servers/detail/567dy7)
+[https://servers.fivem.net/servers/detail/og98k7](https://servers.fivem.net/servers/detail/og98k7)
 
 ***
 
