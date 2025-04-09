@@ -14,7 +14,7 @@ layout:
 
 # 常见问题（FAQ）
 
-## <mark style="color:blue;">**常见问题**</mark>⁉️（Update 2024/10/19） <a href="#chang-jian-wen-ti-update20240912" id="chang-jian-wen-ti-update20240912"></a>
+## <mark style="color:blue;">**常见问题**</mark>⁉️（Update 2025/04/09） <a href="#chang-jian-wen-ti-update20240912" id="chang-jian-wen-ti-update20240912"></a>
 
 ***
 
@@ -50,7 +50,11 @@ layout:
 
 ***
 
-自行解决
+不懂MOD安装原理的，建议卸载，可解决一切问题
+
+### **5.打不开客户端？** <a href="#h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti" id="h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti"></a>
+
+根据报错信息去搜索[https://www.google.com/](https://www.google.com/)
 
 ## <mark style="color:blue;">**暂未解决的BUG**</mark>⚠️ <a href="#zan-wei-jie-jue-de-bug" id="zan-wei-jie-jue-de-bug"></a>
 
