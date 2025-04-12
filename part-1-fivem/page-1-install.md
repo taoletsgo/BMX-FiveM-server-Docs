@@ -50,7 +50,7 @@ layout:
 
 ***
 
-在任意浏览器打开[https://servers.fivem.net/servers/detail/bakz7d](https://servers.fivem.net/servers/detail/bakz7d)_(不定期更换连接地址)_
+在任意浏览器打开[https://servers.fivem.net/servers/detail/pm5lv8](https://servers.fivem.net/servers/detail/pm5lv8)_(不定期更换连接地址)_
 
 ***
 
