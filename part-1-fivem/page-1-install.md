@@ -50,7 +50,15 @@ layout:
 
 ***
 
-在任意浏览器打开[https://servers.fivem.net/servers/detail/pm5lv8](https://servers.fivem.net/servers/detail/pm5lv8)_(不定期更换连接地址)_
+🌐服务器 1: 洛圣都
+
+[https://servers.fivem.net/servers/detail/pm5lv8](https://servers.fivem.net/servers/detail/pmd3qa)_(不定期更换连接地址)_
+
+🌐服务器 2: 自由城
+
+[https://servers.fivem.net/servers/detail/ro3zq7](https://servers.fivem.net/servers/detail/ro3zq7)_(不定期更换连接地址)_
+
+🌐服务器 3: 罪恶都市(暂不开放)
 
 ***
 
