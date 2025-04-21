@@ -52,11 +52,11 @@ layout:
 
 🌐服务器 1: 洛圣都
 
-[https://servers.fivem.net/servers/detail/z83vz9](https://servers.fivem.net/servers/detail/z83vz9)_(不定期更换连接地址)_
+[_https://servers.fivem.net/servers/detail/xq5yp5_](https://servers.fivem.net/servers/detail/xq5yp5)_(不定期更换连接地址)_
 
 🌐服务器 2: 自由城
 
-[https://servers.fivem.net/servers/detail/dqz3vy](https://servers.fivem.net/servers/detail/dqz3vy)_(不定期更换连接地址)_
+[_https://servers.fivem.net/servers/detail/kj68pa_](https://servers.fivem.net/servers/detail/kj68pa)_(不定期更换连接地址)_
 
 🌐服务器 3: 罪恶都市(暂不开放)
 
