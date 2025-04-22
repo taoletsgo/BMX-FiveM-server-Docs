@@ -1,10 +1,6 @@
 # 介绍
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/image/home.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/image/home.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## **本wiki仅适用于GTA5 BMX玩家** <a href="#gta5-bmx" id="gta5-bmx"></a>
 
@@ -20,6 +16,6 @@ GTA5BMX作为一个玩家自主发掘的全新的动作游戏玩法，虽然依�
 如何迁移至bmx竞速/特技的FiveM多人私服，请参阅本wiki的左侧导航栏\~
 {% endhint %}
 
-群组链接: 🎮[Discord Group](https://discord.com/invite/ryAE73x)&#x20;
+群组链接: 🎮[Discord Group](https://discord.gg/zx6HbuuCCk)
 
 ~~_QQ注销卸载了，没有QQ群_~~
