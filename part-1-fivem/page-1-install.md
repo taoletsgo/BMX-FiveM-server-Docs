@@ -7,7 +7,7 @@
 <mark style="color:orange;">（可选）</mark>加入[discord群](https://discord.gg/zx6HbuuCCk)，然后也许你想将discord账号绑定至FiveM，[参考视频](https://www.youtube.com/watch?v=SWD2q0JKRCc)（跳转Youtube）
 
 {% hint style="warning" %}
-虽然无白名单限制，但开图无冷却时间、完整制作器功能、全部交互菜单（如改装载具/传送到特定检查点）等等高级权限，仅向Discord用户开放（需申请）
+虽然无白名单限制，但开图无冷却时间、完整制作器功能、全部交互菜单（如改装载具/传送到特定检查点）等等高级权限，仅开放给Discord用户（需申请）或指定用户组（手动发放）
 {% endhint %}
 
 ## <mark style="color:blue;">**2.Fivem下载**</mark> <a href="#h2fivem-xia-zai" id="h2fivem-xia-zai"></a>
