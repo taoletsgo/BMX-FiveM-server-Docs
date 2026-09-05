@@ -21,13 +21,13 @@ layout:
 
 # 常见问题（FAQ）
 
-## <mark style="color:blue;">**常见问题**</mark>⁉️（Update 2026/09/05） <a href="#chang-jian-wen-ti-update20240912" id="chang-jian-wen-ti-update20240912"></a>
+## <mark style="color:blue;">**常见问题**</mark>⁉️（Update 2026/09/06） <a href="#chang-jian-wen-ti-update20240912" id="chang-jian-wen-ti-update20240912"></a>
 
 ***
 
 ### 1.服务器相关问题 <a href="#h3-zai-bu-fen-jing-su-chai-shi-li-bu-fen-dao-ju-zen-me-que-shi-le" id="h3-zai-bu-fen-jing-su-chai-shi-li-bu-fen-dao-ju-zen-me-que-shi-le"></a>
 
-可在Discord内搜索常见解决方案或汇报问题。但在游戏内滥用聊天或私信管理员，将收到不同级别的封禁套餐。
+可在Discord内搜索常见解决方案或汇报问题。但私信管理员或在游戏内滥用聊天，将收到不同级别的封禁套餐。
 
 ***
 
