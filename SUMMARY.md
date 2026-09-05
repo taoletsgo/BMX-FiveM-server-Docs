@@ -5,7 +5,7 @@
 ## FiveM私服 <a href="#part-1-fivem" id="part-1-fivem"></a>
 
 * [安装本体](part-1-fivem/page-1-install.md)
-* [常见问题（FAQ）](part-1-fivem/page-3-faq.md)
+* [常见问题（FAQ）](part-1-fivem/page-2-faq.md)
 
 ## BMX教程 <a href="#part-2-tutorial" id="part-2-tutorial"></a>
 
