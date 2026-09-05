@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: false
   description:
@@ -9,6 +10,12 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -30,35 +37,31 @@ layout:
 
 {% stepper %}
 {% step %}
-### 转身
+#### 转身
 
 通过普通跳跃里的砸车头或者反动跳，做出转身，转身到大概前后轮连线中心垂直屏幕的位置（可以有偏左或偏右的误差）
 {% endstep %}
 
 {% step %}
-### 后拉
+#### 后拉
 
 转身完，尽量双轮落地（只要不是前轮落地就好），感受到后轮的停顿之后，再进行第三步的后拉操作
 {% endstep %}
 
 {% step %}
-### 摆姿势
+#### 摆姿势
 
 后拉的同时按住刹车（前刹）微打左或者右方向，摆出要拍地的姿势，松开刹车；（带刹车后拉是为了更灵活的摆动作）
 {% endstep %}
 
 {% step %}
-### 拍地
+#### 拍地
 
 即拍地的核心步骤，也是前拍地的最后一步。具体操作是在摆出拍地姿势后，前推+刹车（前刹）+蓄力跳，刹车只需要按一下即可
 {% endstep %}
 {% endstepper %}
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/1.前拍地.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/1.前拍地.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 拍地核心步骤就是斜侧着单车按跳的同时按刹车（前刹）
@@ -85,11 +88,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/3.二段拍地.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/3.二段拍地.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 此方法相对简化，适用于高帧玩家，不太适用于低帧玩家
@@ -103,11 +102,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/4.三段拍地.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/4.三段拍地.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 此处将**三段拍地**定义为正常的前拍地，为了与二段拍地以及其他直接摆出前拍地的方法区分开来
@@ -117,11 +112,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/2.后拍地.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/2.后拍地.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 操作方法即普通跳跃里的后跳（记得带刹车）+前拍地的第三步与第四步
@@ -135,11 +126,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/6.原地拍.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/6.原地拍.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 后拍地的简化版，省略了第一步的后跳
@@ -153,11 +140,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/7.直接后拉拍.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/7.直接后拉拍.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 原地拍的简化版，省略了所有不必要的后跳
@@ -177,21 +160,13 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/5.拍地倒滑拍地.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/5.拍地倒滑拍地.gif" alt=""><figcaption></figcaption></figure></div>
 
 ### **双拍** <a href="#shuang-pai" id="shuang-pai"></a>
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/8.双拍.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/8.双拍.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 拍的时候前推多带点，拍起来的时候在空中提前后拉，以便做出下一次拍地的姿势
@@ -205,21 +180,13 @@ layout:
 
 ***
 
-**左右拍**，可以很好的保持直线~~(也不一定)~~
+**左右拍**，可以很好的保持直线\~\~(也不一定)\~\~
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/9.多拍a（左右拍）.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/9.多拍a（左右拍）.gif" alt=""><figcaption></figcaption></figure></div>
 
 **螺旋拍**，帅就完事了
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/9.多拍b（螺旋拍）.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/9.多拍b（螺旋拍）.gif" alt=""><figcaption></figcaption></figure></div>
 
 > **❓小调查：你能连续拍多少次呢？**
 
@@ -227,11 +194,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/10.斜面拍.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/10.斜面拍.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 尽量前轮偏上，后轮偏下，和正常拍地一样
@@ -245,11 +208,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/11.三角拍.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/11.三角拍.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 前轮和后轮不在同一水平面上
@@ -263,11 +222,7 @@ layout:
 
 ***
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/12.顶飞拍.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/6.framebounces/12.顶飞拍.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 也可以看作挤飞或者拍缝

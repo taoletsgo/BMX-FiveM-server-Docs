@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: false
   description:
@@ -10,26 +11,26 @@ layout:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 常见问题（FAQ）
 
-## <mark style="color:blue;">**常见问题**</mark>⁉️（Update 2025/04/23） <a href="#chang-jian-wen-ti-update20240912" id="chang-jian-wen-ti-update20240912"></a>
+## <mark style="color:blue;">**常见问题**</mark>⁉️（Update 2026/09/05） <a href="#chang-jian-wen-ti-update20240912" id="chang-jian-wen-ti-update20240912"></a>
 
 ***
 
-### **1.看不懂英文提示？** <a href="#h3-zai-bu-fen-jing-su-chai-shi-li-bu-fen-dao-ju-zen-me-que-shi-le" id="h3-zai-bu-fen-jing-su-chai-shi-li-bu-fen-dao-ju-zen-me-que-shi-le"></a>
+### 1.服务器相关问题 <a href="#h3-zai-bu-fen-jing-su-chai-shi-li-bu-fen-dao-ju-zen-me-que-shi-le" id="h3-zai-bu-fen-jing-su-chai-shi-li-bu-fen-dao-ju-zen-me-que-shi-le"></a>
 
-拍照翻译
-
-***
-
-### **2.第三方软件或者MOD出了问题？** <a href="#h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti" id="h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti"></a>
+可在Discord内搜索常见解决方案或汇报问题。但在游戏内滥用聊天或私信管理员，将收到不同级别的封禁套餐。
 
 ***
 
-建议卸载
+### **2.**&#x46;iveM相关问题 <a href="#h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti" id="h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti"></a>
 
-### **3.打不开客户端？掉线？游戏崩溃？** <a href="#h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti" id="h4-di-san-fang-ruan-jian-huo-zhe-mod-chu-le-wen-ti"></a>
-
-[https://www.google.com/](https://www.google.com/)
+如打不开客户端、更新失败、软件冲突等，自行寻找合适渠道以修复或反馈。

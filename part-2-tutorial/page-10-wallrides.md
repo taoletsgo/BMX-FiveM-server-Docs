@@ -1,5 +1,6 @@
 ---
 layout:
+  width: default
   title:
     visible: false
   description:
@@ -9,6 +10,12 @@ layout:
   outline:
     visible: true
   pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
     visible: true
 ---
 
@@ -26,11 +33,7 @@ layout:
 
 提前预习下操作画面，在下面的反动壁走（前压拱）再详细讲诉方法，只是省略了蓄力跳（拱）的部分
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.1反动壁走（不拱）.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.1反动壁走（不拱）.gif" alt=""><figcaption></figcaption></figure></div>
 
 ### **反动壁走（前压拱）** <a href="#fan-dong-bi-zou-qian-ya-gong" id="fan-dong-bi-zou-qian-ya-gong"></a>
 
@@ -40,29 +43,25 @@ layout:
 
 {% stepper %}
 {% step %}
-### 反动跳
+#### 反动跳
 
 结合普通跳跃里[反动跳](page-1-jumps.md#fan-dong-tiao)操作，即空中先左后右（或先右后左）
 {% endstep %}
 
 {% step %}
-### 砸车头
+#### 砸车头
 
 接着落地执行砸车头操作，保持前推不要松
 {% endstep %}
 
 {% step %}
-### 触墙前压
+#### 触墙前压
 
 让前轮触及所要壁走的面，然后适当前压+蓄力跳（此处蓄力跳看成一个拱）
 {% endstep %}
 {% endstepper %}
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.2反动壁走（前压拱）.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.2反动壁走（前压拱）.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 砸起车头前，前推一定不能松
@@ -89,11 +88,7 @@ layout:
 
 一个最简化版本的前压壁走
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.3直接跳起接前压壁走.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.3直接跳起接前压壁走.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 在速度足够的情况下，才能直接起跳摆出前压壁走
@@ -105,11 +100,7 @@ layout:
 
 普通砸车头代替反动跳的反动壁走
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.4砸车头接前压壁走.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.4砸车头接前压壁走.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 成功率比较低
@@ -125,11 +116,7 @@ layout:
 
 即拍地做出前轮触墙的姿势，同理以上。
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.5拍地接前压壁走.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/a.5拍地接前压壁走.gif" alt=""><figcaption></figcaption></figure></div>
 
 > **【拓展思路】** 其他方法接前压壁走：
 >
@@ -149,13 +136,7 @@ layout:
 
 后轮先贴墙，等待前轮自动靠近墙壁形成壁走，然后慢慢往上打方向
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/b.1普通后轮贴墙壁走.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/b.1普通后轮贴墙壁走.gif" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 不需要按刹车
@@ -176,11 +157,7 @@ layout:
 
 与普通后轮贴墙壁走一样，后轮先贴墙，等待前轮自动靠近墙壁，即可形成壁走
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/b.2高空速降壁走.gif" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/b.2高空速降壁走.gif" alt=""><figcaption></figcaption></figure></div>
 
 ```plaintext
 键盘：方向按键
@@ -195,11 +172,7 @@ layout:
 
 两个轮子同时拱墙，然后形成壁走
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/拱拱壁走.gif" alt=""><figcaption><p><a href="https://www.youtube.com/@perplexBMX"><em>图源：plex</em></a></p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image/tutorial/10.wallrides/拱拱壁走.gif" alt=""><figcaption><p><a href="https://www.youtube.com/@perplexBMX"><em>图源：plex</em></a></p></figcaption></figure></div>
 
 ~~随着BMX的发展，渐渐被淘汰，只需了解该名词，并知道拱拱不只为曲面壁走服务，也可以为直面壁走服务即可~~
 

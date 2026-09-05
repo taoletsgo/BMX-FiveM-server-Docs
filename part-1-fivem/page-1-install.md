@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 安装本体
 
 ## <mark style="color:blue;">**1.打开Discord**</mark> <a href="#h1-da-kai-discord" id="h1-da-kai-discord"></a>
@@ -19,7 +40,7 @@
 <mark style="color:orange;">（可选）</mark>把下载下来的文件放到你想安装的目录
 
 {% hint style="success" %}
-运行后会在同目录生成名为“FiveM Application Data”的文件夹，后续如果需要装[MOD](page-2-mod.md#hua-zhi-mod)，也是在这个路径内
+运行后会在同目录生成名为“FiveM Application Data”的文件夹，后续如果需要装[MOD](/broken/pages/ydOEtfJznxO8DIGpmeju#hua-zhi-mod)，也是在这个路径内
 {% endhint %}
 
 ## <mark style="color:blue;">**3.加入游戏**</mark> <a href="#h4-jia-ru-you-xi" id="h4-jia-ru-you-xi"></a>
