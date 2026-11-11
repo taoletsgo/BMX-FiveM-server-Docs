@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 安装本体
@@ -25,7 +27,9 @@ layout:
 
 ***
 
-<mark style="color:orange;">（可选）</mark>加入[discord群](https://discord.gg/zx6HbuuCCk)，然后也许你想将discord账号绑定至FiveM，[参考视频](https://www.youtube.com/watch?v=SWD2q0JKRCc)（跳转Youtube）
+<mark style="color:orange;">（可选）</mark>加入[Discord群组](https://discord.gg/zx6HbuuCCk)
+
+<mark style="color:orange;">（可选）</mark>将Discord账号绑定至FiveM
 
 ## <mark style="color:blue;">**2.FiveM下载**</mark> <a href="#h2fivem-xia-zai" id="h2fivem-xia-zai"></a>
 
